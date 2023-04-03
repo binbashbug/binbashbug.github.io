@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statics on #!/bin/bash/bug</title>
+    <link>https://binbashbug.com/static/</link>
+    <description>Recent content in Statics on #!/bin/bash/bug</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>binbashbug - All rights reserved</copyright>
+    <lastBuildDate>Thu, 30 Mar 2023 00:21:30 -0700</lastBuildDate>
+    
+	<atom:link href="https://binbashbug.com/static/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Credits</title>
+      <link>https://binbashbug.com/static/credits/</link>
+      <pubDate>Thu, 30 Mar 2023 00:21:30 -0700</pubDate>
+      
+      <guid>https://binbashbug.com/static/credits/</guid>
+      <description> Bug by nita gunawan from Noun Project (CCBY3.0)  Modified to remove text   </description>
+    </item>
+    
+  </channel>
+</rss>

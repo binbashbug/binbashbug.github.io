@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://binbashbug.com/</loc>
+    <lastmod>2023-04-01T12:54:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binbashbug.com/blog/</loc>
+    <lastmod>2023-04-01T12:54:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binbashbug.com/blog/2023-04-01-principal-developer-wastes-time-guessing-instead-of-reading-error-message/</loc>
+    <lastmod>2023-04-01T12:54:53-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binbashbug.com/static/credits/</loc>
+    <lastmod>2023-03-30T00:21:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binbashbug.com/static/</loc>
+    <lastmod>2023-03-30T00:21:30-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binbashbug.com/blog/2023-03-12-principal-developers-reveal-secret-to-success-is-bikeshedding-and-nitpicking/</loc>
+    <lastmod>2023-03-12T00:40:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binbashbug.com/blog/2023-02-13-developers-rejoice-as-studies-show-testing-assumptions-is-a-waste-of-time/</loc>
+    <lastmod>2023-02-13T00:00:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binbashbug.com/tags/research/</loc>
+    <lastmod>2023-02-13T00:00:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binbashbug.com/tags/</loc>
+    <lastmod>2023-02-13T00:00:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://binbashbug.com/categories/</loc>
+  </url>
+  
+</urlset>

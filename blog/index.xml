@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on #!/bin/bash/bug</title>
+    <link>https://binbashbug.com/blog/</link>
+    <description>Recent content in Blogs on #!/bin/bash/bug</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>binbashbug - All rights reserved</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 12:54:53 -0700</lastBuildDate>
+    
+	<atom:link href="https://binbashbug.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Senior Developer Ignores Error Message That Literally Tells Him How To Fix The Problem, Spends Days Making Random Guesses</title>
+      <link>https://binbashbug.com/blog/2023-04-01-principal-developer-wastes-time-guessing-instead-of-reading-error-message/</link>
+      <pubDate>Sat, 01 Apr 2023 12:54:53 -0700</pubDate>
+      
+      <guid>https://binbashbug.com/blog/2023-04-01-principal-developer-wastes-time-guessing-instead-of-reading-error-message/</guid>
+      <description>SAN FRANCISCO - In a stunning display of incompetence and stubbornness, principal developer Jason Lee reportedly ignored an error message that literally told him how to fix the problem he was facing, and instead spent days making random guesses and blaming other factors.</description>
+    </item>
+    
+    <item>
+      <title>Principal Developers Reveal Secret to Success Is Bikeshedding and Nitpicking</title>
+      <link>https://binbashbug.com/blog/2023-03-12-principal-developers-reveal-secret-to-success-is-bikeshedding-and-nitpicking/</link>
+      <pubDate>Sun, 12 Mar 2023 00:40:13 -0700</pubDate>
+      
+      <guid>https://binbashbug.com/blog/2023-03-12-principal-developers-reveal-secret-to-success-is-bikeshedding-and-nitpicking/</guid>
+      <description>Principal developers, the highest-ranking and most respected developers in the industry, have revealed their secrets to effective code review: nitpick and bikeshed everything. According to these experts, the best way to ensure code quality and maintainability is to focus on the smallest and most irrelevant details of the code and ignore the bigger and more important issues.</description>
+    </item>
+    
+    <item>
+      <title>Developers Rejoice as Studies Show Testing Assumptions Is a Waste of Time</title>
+      <link>https://binbashbug.com/blog/2023-02-13-developers-rejoice-as-studies-show-testing-assumptions-is-a-waste-of-time/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:09 -0700</pubDate>
+      
+      <guid>https://binbashbug.com/blog/2023-02-13-developers-rejoice-as-studies-show-testing-assumptions-is-a-waste-of-time/</guid>
+      <description>A groundbreaking new study published in the prestigious Journal of Software Engineering has found that testing assumptions is a waste of time for developers. The study, conducted by a team of researchers from the University of Nowhere, claims that developers who rely on their intuition and gut feelings are more likely to produce high-quality code than those who bother to verify their assumptions with data, logic, or evidence.</description>
+    </item>
+    
+  </channel>
+</rss>
